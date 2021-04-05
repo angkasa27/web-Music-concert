@@ -32,7 +32,7 @@
     left:35rem;
     font-size: 4rem;
     transform: rotate(-10deg);
-    animation: meskipun 15s linear infinite
+    animation: meskipun 20s linear infinite
   }
 
   @keyframes meskipun{
@@ -64,7 +64,7 @@
       left: 10rem;
       font-size: 3rem;
       transform: rotate(-5deg);
-      animation: merindu 15s linear infinite
+      animation: merindu 20s linear infinite
     }
 
     @keyframes merindu {
@@ -105,7 +105,7 @@
       left: 45rem;
       font-size: 3rem;
       transform: rotate(-5deg);
-      animation: dirimu 15s linear infinite
+      animation: dirimu 20s linear infinite
     }
 
     @keyframes dirimu {
@@ -151,7 +151,7 @@
           left: 25rem;
           font-size: 3rem;
           transform: rotate(-5deg);
-          animation: untukmu 15s linear infinite
+          animation: untukmu 20s linear infinite
         }
 
         @keyframes untukmu {
