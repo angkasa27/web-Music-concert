@@ -1,0 +1,9 @@
+html {
+    background:#C4C4C4;
+}
+body {
+  margin: 0;
+  font-family: 'Oswald';
+  overflow-x: hidden;
+  position: relative;
+}
